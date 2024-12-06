@@ -1,0 +1,8 @@
+{
+    "nativeDependencies": {
+        "@react-native-community/hooks": "^3.0.0",
+        "@react-navigation/core": "^7.3.0",
+        "react-native-reanimated": "^3.16.3",
+        "react-native-vision-camera-face-detector": "^1.7.2"
+    }
+}
